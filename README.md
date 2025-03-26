@@ -1,6 +1,6 @@
 # Software-Testing-Practice---Annotations-and-Assertions
 
-[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/Rjacq025/Software-Testing-Practice---Annotations-and-Assertions/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/Rjacq025/Software-Testing-Practice---Annotations-and-Assertions)
+[![OpenSSF Scorecard](htt‌ps://api.scorecard.dev/projects/github.com/ossf/scorecard-action/badge)](https://scorecard.dev/viewer/?uri=github.com/ossf/scorecard-action)
 
 
 ## Description
