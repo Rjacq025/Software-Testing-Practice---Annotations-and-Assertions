@@ -5,3 +5,8 @@
 - Browser_AnA
 - Numbers_AnA
 - 
+
+## How to: Obtain and Provide Feedback
+- In the top selection bar select "Issues"
+- Select the green "New Issue" button
+- Create a new issue according to your preferences
