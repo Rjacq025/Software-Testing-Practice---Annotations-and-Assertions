@@ -1,6 +1,7 @@
 # Software-Testing-Practice---Annotations-and-Assertions
 
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Rjacq025/Software-Testing-Practice---Annotations-and-Assertions/badge)](https://scorecard.dev/viewer/?uri=github.com/Rjacq025/Software-Testing-Practice---Annotations-and-Assertions)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10327/badge)](https://www.bestpractices.dev/projects/10327)
 
 ## Description
 ### This involves practice code I developed in my software testing course. This is used to automate website software testing. This repository involves the projects:
